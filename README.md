@@ -8,7 +8,7 @@ Introduction to Robotics laboratory project, taken in the 3rd year at the **Facu
 
 ### 📜 Task Requirements
 
-#### Components
+#### Components:
 - chassis
 - Arduino Uno Board
 - 2 DC motors
@@ -29,9 +29,25 @@ It self calibrates and we save the calibration in EEPROM so we do not have to re
 The PID algorithm processes the values from multiple ranges registered by the sensors and passes the new numbers to the motors. 
 Our best time during the evaluation was 19.53 seconds.
 
-### 🖼️ [Picture of the setup]()
- <img src="" width="400" height="400" />
-
+### 🖼️ [Pictures of the setup]
+<details>
+ <summary> Top View </summary>
+  <img src="https://github.com/AlinaGeo/Line-Follower/blob/main/SetupImages/TopView.jpeg" width="400" height="400" />
+</details>
+<details>
+ <summary> Front View </summary>
+  <img src="https://github.com/AlinaGeo/Line-Follower/blob/main/SetupImages/FrontView.jpeg" width="400" height="400" />
+</details>
+<details>
+ <summary> Back View </summary>
+  <img src="https://github.com/AlinaGeo/Line-Follower/blob/main/SetupImages/BackView.jpeg" width="400" height="400" />
+</details>
 
 ### 🎞️ Video presenting the functionality
-The video can be found [here]().
+The video can be found [here](https://youtu.be/gbQHCzN8Bp8).
+
+### 🖥️ Code
+You can also check out the code [here](https://github.com/AlinaGeo/Line-Follower/blob/main/linefollower/linefollower.ino).
+
+
+~ Thanks for reading! ❤
